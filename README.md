@@ -70,10 +70,10 @@ Question Matching
    Bot Reply
 ```
 
-When a user sends a message, Botix-S receives the message and compares
+- When a user sends a message, Botix-S receives the message and compares
 it with the questions stored inside `data/responses.json`.
 
-If a matching question is found, the corresponding answer is sent back
+- If a matching question is found, the corresponding answer is sent back
 to the Discord channel.
 
 ### Example
@@ -117,13 +117,13 @@ Botix-S/
 
 ### `src/bot.py`
 
-The main Python file responsible for:
+- The main Python file responsible for:
 
-- Connecting the bot to Discord.
-- Receiving user messages.
-- Reading response data.
-- Matching questions.
-- Sending automated replies.
+ - Connecting the bot to Discord.
+ - Receiving user messages.
+ - Reading response data.
+ - Matching questions.
+ - Sending automated replies.
 
 ### `data/responses.json`
 
