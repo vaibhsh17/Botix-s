@@ -11,18 +11,18 @@
 </div>
 
 
-**Botix-S** is a simple, response-based Discord chatbot built with
+- **Botix-S** is a simple, response-based Discord chatbot built with
 **Python** and **discord.py**.
 
-It allows a Discord server to have automated question-and-answer
+- It allows a Discord server to have automated question-and-answer
 responses using a predefined collection of questions and answers stored
 in a JSON file.
 
-Instead of writing a new piece of chatbot logic for every response,
+- Instead of writing a new piece of chatbot logic for every response,
 Botix-S reads the available questions from `responses.json`, matches
 the user's message, and sends the corresponding answer automatically.
 
-The project is designed as a clean and beginner-friendly foundation for
+- The project is designed as a clean and beginner-friendly foundation for
 learning **Discord bot development, message handling, JSON data
 management, environment variables, and automation**.
 
