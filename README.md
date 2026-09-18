@@ -264,7 +264,7 @@ Botix-S is online as Botix-S#7076
 ## 🔐 **Discord Configuration**
 </div>
 
-Botix-S requires the appropriate Discord configuration to receive and
+- **Botix-S** requires the appropriate Discord configuration to receive and
 respond to messages.
 
 The bot uses:
@@ -274,7 +274,7 @@ The bot uses:
 - **Send Messages**
 - **Read Message History**
 
-The Message Content Intent allows Botix-S to receive the message content
+- The Message Content Intent allows Botix-S to receive the message content
 required for the response-matching system.
 
 <div align="center">
