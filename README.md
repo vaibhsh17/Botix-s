@@ -119,11 +119,11 @@ Botix-S/
 
 - The main Python file responsible for:
 
- - Connecting the bot to Discord.
- - Receiving user messages.
- - Reading response data.
- - Matching questions.
- - Sending automated replies.
+  - Connecting the bot to Discord.
+  - Receiving user messages.
+  - Reading response data.
+  - Matching questions.
+  - Sending automated replies.
 
 ### `data/responses.json`
 
