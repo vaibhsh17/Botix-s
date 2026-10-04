@@ -299,18 +299,15 @@ required for the response-matching system.
 ## 📌 **Current Limitations**
 </div>
 
-Botix-S is intentionally simple in its current version.
-
-At the moment:
-
-- Responses are predefined,
-- Questions and answers are stored manually in JSON,
-- The bot does not generate AI-based answers,
-- Unknown questions do not yet have a dedicated fallback system,
-- The current matching system depends on the stored question text,
-- The bot needs to remain running on the host machine to stay online.
-
-- These limitations are part of the current development stage and provide
+- Botix-S is intentionally simple in its current version.
+- At the moment:
+  - Responses are predefined,
+  - Questions and answers are stored manually in JSON,
+  - The bot does not generate AI-based answers,
+  - Unknown questions do not yet have a dedicated fallback system,
+  - The current matching system depends on the stored question text,
+  - The bot needs to remain running on the host machine to stay online.
+  - These limitations are part of the current development stage and provide
 a foundation for future improvements.
 
 <div align="center">
