@@ -269,10 +269,10 @@ respond to messages.
 
 - The bot uses:
 
-- **Message Content Intent**
-- **View Channel**
-- **Send Messages**
-- **Read Message History**
+  - **Message Content Intent**
+  - **View Channel**
+  - **Send Messages**
+  - **Read Message History**
 
 - The Message Content Intent allows Botix-S to receive the message content
 required for the response-matching system.
