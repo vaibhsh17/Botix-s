@@ -267,7 +267,7 @@ Botix-S is online as Botix-S#7076
 - **Botix-S** requires the appropriate Discord configuration to receive and
 respond to messages.
 
-The bot uses:
+- The bot uses:
 
 - **Message Content Intent**
 - **View Channel**
