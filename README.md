@@ -115,9 +115,7 @@ Botix-S/
 └── CONTRIBUTORS.md
 ```
 
-### `src/bot.py`
-
-- The main Python file responsible for:
+- **The main Python file responsible for**:
 
   - Connecting the bot to Discord.
   - Receiving user messages.
@@ -155,15 +153,6 @@ DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 ```
 
 > Never publish your real Discord bot token on GitHub.
-
-### `requirements.txt`
-
-Contains the dependencies required by the project:
-
-```text
-discord.py
-python-dotenv
-```
 
 <div align="center">
 
