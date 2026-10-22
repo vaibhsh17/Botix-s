@@ -144,14 +144,6 @@ Example:
 }
 ```
 
-### `.env`
-
-Used to store sensitive configuration such as the Discord bot token.
-
-```env
-DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
-```
-
 > Never publish your real Discord bot token on GitHub.
 
 <div align="center">
