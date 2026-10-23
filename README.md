@@ -255,8 +255,7 @@ respond to messages.
   - **Send Messages**
   - **Read Message History**
 
-- The Message Content Intent allows Botix-S to receive the message content
-required for the response-matching system.
+- The Message Content Intent allows Botix-S to receive the message content required for the response-matching system.
 
 <div align="center">
 
