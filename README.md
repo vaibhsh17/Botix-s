@@ -11,7 +11,7 @@
 </div>
 
 
-- **Botix-S** is a simple, response-based Discord chatbot built with
+- A simple, response-based Discord chatbot built with
 **Python** and **discord.py**.
 
 - It allows a Discord server to have automated question-and-answer
