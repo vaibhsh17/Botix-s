@@ -339,7 +339,7 @@ Botix-S is built around a simple idea:
 
 > **A chatbot should be easy to understand, customize, and extend.**
 
-The project focuses on keeping the core architecture simple while
+- The project focuses on keeping the core architecture simple while
 providing a foundation that can grow into a more advanced chatbot
 platform.
 
