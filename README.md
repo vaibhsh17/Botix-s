@@ -1,7 +1,7 @@
 <div align="center">
 
 # **Botix-S**
-### Simple, customizable, and easy-to-use Discord chatbot.
+### Simple, customizable, and Easy-to-Use Discord chatbot.
 
 ![Progress](https://img.shields.io/badge/Progress-Working-brightgreen)
 ![Documentation Status](https://img.shields.io/badge/Docs-Maintained-blue)
