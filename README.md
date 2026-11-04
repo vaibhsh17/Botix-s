@@ -9,3 +9,7 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Discord](https://img.shields.io/badge/Platform-Discord-5865F2)
 </div>
+
+## 📌 About
+
+- **Botix-S** is a lightweight Discord chatbot to automate coversations using predefined questions and answers.
