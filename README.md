@@ -37,7 +37,7 @@
 ## ⚙️ How Botix-S Works
 
 Botix-S follows a straightforward response-based architecture.
-
+```
 Discord User
              |
              v
@@ -56,3 +56,10 @@ Discord User
        Matching Answer
              |
              v
+```
+When a user sends a message in a Discord channel:
+
+1. Botix-S recieves the message through the Discord Gateway.
+2. The message is checked against the stored questions.
+3. A matching question is identified.
+4. The corresponding answer is sent to the Discord channel.
