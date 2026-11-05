@@ -16,3 +16,20 @@
 - **Botix-S** is a lightweight Discord chatbot to automate coversations using predefined questions and answers.
 - It follows a simple approach: questions and answers are storedin a structured JSON file, allowing responses to be customized without changing the main chatbot logic.
 - The project aims to provide a beginner-friendly foundation for Discord bot development while gradually envolving toward a more flexible and customizable chatbot system.
+
+## 🚀 Current Progress
+
+- The current version of Botix-S focuses on establishing a working Discord chatbot and maintaining a simple, understandable codebase.
+
+**Implemented so far**:
+
+- Discord bot creation and integration.
+- Discord API communication through discord.py.
+- Automatic message recieving and response handling.
+- JSON-based question-and-answer storage.
+- Question matching and automated replies.
+- Secure bot token management using enviourment variables.
+- Modular Python project structure.
+- Discord Message Content Intent Configuration.
+- Git and Github version control.
+- Improvements to response loading and message matching.
