@@ -33,3 +33,26 @@
 - Discord Message Content Intent Configuration.
 - Git and Github version control.
 - Improvements to response loading and message matching.
+
+## ⚙️ How Botix-S Works
+
+Botix-S follows a straightforward response-based architecture.
+
+Discord User
+             |
+             v
+       User Message
+             |
+             v
+          Botix-S
+             |
+             v
+       responses.json
+             |
+             v
+      Question Matching
+             |
+             v
+       Matching Answer
+             |
+             v
