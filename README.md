@@ -1,4 +1,4 @@
-z<div align="center">
+<div align="center">
 
 # **Botix-S**
 ### Simple, customizable, and Easy-to-Use Discord chatbot.
@@ -11,7 +11,7 @@ z<div align="center">
 </div>
 
 ---
-<div>
+<div align="center">
 
 ## 📌 About
 </div>
@@ -20,9 +20,9 @@ z<div align="center">
 - It follows a simple approach: questions and answers are storedin a structured JSON file, allowing responses to be customized without changing the main chatbot logic.
 - The project aims to provide a beginner-friendly foundation for Discord bot development while gradually envolving toward a more flexible and customizable chatbot system.
 
-<div align="centre">
+<div align="center">
 
-##🚀 Current Progress
+## 🚀 Current Progress
 </div>
 
 - The current version of Botix-S focuses on establishing a working Discord chatbot and maintaining a simple, understandable codebase.
@@ -40,7 +40,10 @@ z<div align="center">
 - Git and Github version control.
 - Improvements to response loading and message matching.
 
+<div align="center">
+
 ## ⚙️ How Botix-S Works
+</div>
 
 Botix-S follows a straightforward response-based architecture.
 ```
@@ -69,3 +72,29 @@ When a user sends a message in a Discord channel:
 2. The message is checked against the stored questions.
 3. A matching question is identified.
 4. The corresponding answer is sent to the Discord channel.
+
+**important**: Botix-S only respond to questions for which predefined answers  are saved in data/responses.json. It does not currently generate independent  AI-based answers.
+
+<div align="center">
+
+## ✨ Core Features
+</div>
+
+<div align="center">
+
+## 📂 Project Structure
+</div>
+```
+Botix-S/
+│
+├── data/
+│   └── responses.json
+│
+├── src/
+│   └── bot.py
+│
+├── .env
+├── .gitignore
+├── requirements.txt
+└── README.md
+```
