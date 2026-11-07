@@ -84,6 +84,7 @@ When a user sends a message in a Discord channel:
 
 ## 📂 Project Structure
 </div>
+
 ```
 Botix-S/
 │
@@ -98,3 +99,16 @@ Botix-S/
 ├── requirements.txt
 └── README.md
 ```
+
+<div align="center">
+
+## 🛠️ Technologies Used
+</div>
+
+Technology | Purpose
+-
+Python | Core Programming Language
+discord.py | Python library for Discord integration
+Discord API | Communication with Discord
+JSON | Question-and-Answer storage
+python-dotenv | Enviourment variable management
