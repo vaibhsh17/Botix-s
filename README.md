@@ -1,4 +1,4 @@
-<div align="center">
+z<div align="center">
 
 # **Botix-S**
 ### Simple, customizable, and Easy-to-Use Discord chatbot.
@@ -11,7 +11,10 @@
 </div>
 
 ---
+<div>
+
 ## 📌 About
+</div>
 
 - **Botix-S** is a lightweight Discord chatbot to automate coversations using predefined questions and answers.
 - It follows a simple approach: questions and answers are storedin a structured JSON file, allowing responses to be customized without changing the main chatbot logic.
