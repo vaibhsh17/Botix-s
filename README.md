@@ -105,10 +105,10 @@ Botix-S/
 ## 🛠️ Technologies Used
 </div>
 
-Technology | Purpose |
-
-Python | Core Programming Language |
-discord.py | Python library for Discord integration |
-Discord API | Communication with Discord |
-JSON | Question-and-Answer storage |
-python-dotenv | Enviourment variable management |
+| Technology | Purpose |
+|---|---|
+| Python | Core programmming language |
+| discord.py | Python library for Discord integration |
+| Discord API | Communication with Discord |
+| JSON | Question-and-answer storage |
+| python-dotenv | Enviourment variable management |
