@@ -105,6 +105,8 @@ Botix-S/
 ## 🛠️ Technologies Used
 </div>
 
+<div align="center">
+
 | Technology | Purpose |
 |---|---|
 | Python | Core programmming language |
@@ -112,3 +114,28 @@ Botix-S/
 | Discord API | Communication with Discord |
 | JSON | Question-and-answer storage |
 | python-dotenv | Enviourment variable management |
+</div>
+
+<div align="center">
+
+## ⚙️ Installation & Setup
+</div>
+
+> 1. Clone the Repo: git clone https://github.com/vaibhsh17/botix-s.git
+
+
+<div align="center">
+
+## 📌 Current Limitations
+</div>
+
+Botix-S is currently a basic response-based chatbot.
+
+Its current limitations include:
+- Responses depend on predefined questions and answers.
+- New Q & A entries must be added to the JSON data.
+- It does not currently use an AI model.
+- Unknown questions do not have a dedicated fallback response.
+- The bot runs only while its Python process remains active.
+
+These limitations define the current development stage and provide opportunities for future improvements.
